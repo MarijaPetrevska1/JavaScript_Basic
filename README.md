@@ -6,5 +6,5 @@
 
   - Building simple interactive web pages and practicing DOM manipulation.  
   - Small projects and exercises to strengthen core web development skills.
-- Homework
-- Projects
+--  Homework
+--  Projects
